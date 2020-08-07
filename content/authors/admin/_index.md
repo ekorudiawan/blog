@@ -32,9 +32,9 @@ education:
     - course: M.Sc in Electrical Engineering
       institution: National Taiwan Normal University
       year: 2020
-    - course: S.ST in Electrical Engineering
+    - course: B.A.Sc in Electrical Engineering
       institution: Bandung Institute of Technology
-      year: 2012
+      year: 2013
     - course: A.Md in Electrical Engineering
       institution: Politeknik Negeri Batam
       year: 2011
