@@ -18,12 +18,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/ekorudiawan
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/ekorudiawan
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WD3MxX0AAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-5142-7205
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Eko_Jamzuri
   #- icon: linkedin
   #  icon_pack: ai
   #  link: https://www.linkedin.com/in/eko-rudiawan-jamzuri-b6891648

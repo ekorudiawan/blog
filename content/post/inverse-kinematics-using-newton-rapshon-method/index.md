@@ -17,6 +17,9 @@ sudo apt update && sudo apt install orocos-kdl-dev
 ```python
 import numpy as np
 print(np.__version__)
+
+def main():
+  print("Hello world")
 ```
 
 $$a=b+c$$
