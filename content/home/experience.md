@@ -18,18 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Freelance Automation Programmer"
+  title = "Freelance Automation Engineer"
   company = ""
   company_url = ""
   location = "Batam, Indonesia"
   date_start = "2013-07-01"
   date_end = "2018-07-30"
   description = """
+  List Client:
+
+  * PT. Tugu Sena Sinergi (Batam, Indonesia)
+  * PT. Jovan Technologies (Batam, Indonesia)
+  * PT. Feen Marine (Batam, Indonesia)
+  * CV. Indo Trading (Batam, Indonesia)
+
   Responsibilities include:
   
-  * Designing, Wiring, and Documenting Electrical of Automation Machine
-  * Programming PLC (Programmable Logic Controller)
-  * Debugging and Commisioning Automation Machine
+  * Designed electrical wiring diagram
+  * Developed PLC (Programmable Logic Controller) program
+  * Developed PC-based software
+  * Designed automation system
   """
 
 [[experience]]
@@ -39,7 +47,7 @@ date_format = "Jan 2006"
   location = "Batam, Indonesia"
   date_start = "2013-07-01"
   date_end = "2018-08-31"
-  description = """Assisting undergraduate student practice in laboratory."""
+  description = """Tutored undergraduate students."""
 
 [[experience]]
   title = "Software Developer"
@@ -50,8 +58,8 @@ date_format = "Jan 2006"
   date_end = "2020-08-31"
   description = """
   
-  * Developing simulation model of teen-size humanoid robot in ROS and Gazebo
-  * Developing ROS software framework for humanoid robot (dynamic locomotion & control)
+  * Developed simulation model of humanoid robot using Gazebo
+  * Developed ROS software framework for humanoid robot (locomotion & control)
   """
 
   [[experience]]
@@ -63,9 +71,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  * Teaching Machine Vision course at Mechatronics Engineering Program
-  * Teaching CAD (Computer Aided Drawing) course at Robotics Engineering Program
-  * Assisting undergraduate student final project
+  * Given lesson Machine Vision at Mechatronics Engineering Program
+  * Lectured CAD (Computer Aided Drawing) course at Robotics Engineering Program
+  * Supervised final project of undergraduate student
   """
 
 +++

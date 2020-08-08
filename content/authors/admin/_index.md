@@ -6,8 +6,8 @@ superuser: true
 authors:
   - admin
 title: Eko Rudiawan Jamzuri
-role: Lecturer Department of Electrical Engineering, Politeknik Negeri Batam
-bio: My research interests include humanoid robot, computer vision, and deep
+role: Lecturer of the Department of Electrical Engineering
+bio: My research interests include humanoid robot, computer vision, machine learning and deep
   learning.
 interests:
   - Humanoid Robot
@@ -24,6 +24,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WD3MxX0AAAAJ
+  #- icon: linkedin
+  #  icon_pack: ai
+  #  link: https://www.linkedin.com/in/eko-rudiawan-jamzuri-b6891648
   - icon: github
     icon_pack: fab
     link: https://github.com/ekorudiawan
@@ -43,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Eko Rudiawan Jamzuri is a lecturer Department of Electrical Engineering at the Politeknik Negeri Batam. He also a member of BRAIL (Barelang Robotics and Artificial Intelligence Lab). His research interests include humanoid robot, computer vision, machine learning, and deep learning. He leads the Humanoid Robot research group, which develops a dynamic locomotion and visual perception of humanoid robot.
+Eko Rudiawan Jamzuri is a lecturer of the Department of Electrical Engineering at Politeknik Negeri Batam. He is also a member of BRAIL (Barelang Robotics and Artificial Intelligence Lab). His research interests include humanoid robot, computer vision, machine learning, and deep learning. He leads the Humanoid Robot research group at BRAIL, which researches on dynamic locomotion and visual perception of the humanoid robot.
