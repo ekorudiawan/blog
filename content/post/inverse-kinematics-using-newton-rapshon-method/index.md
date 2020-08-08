@@ -10,6 +10,17 @@ image:
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor elit sed vulputate mi sit. A lacus vestibulum sed arcu non odio euismod. Gravida in fermentum et sollicitudin ac orci phasellus egestas. A cras semper auctor neque vitae tempus quam. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget egestas. Convallis convallis tellus id interdum velit laoreet id. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Tortor at risus viverra adipiscing at in tellus. Scelerisque eu ultrices vitae auctor. Id porta nibh venenatis cras sed felis eget velit.
 
+```bash
+sudo apt update && sudo apt install orocos-kdl-dev
+```
+
+```python
+import numpy as np
+print(np.__version__)
+```
+
+$$a=b+c$$
+
 Turpis in eu mi bibendum neque egestas congue. Faucibus in ornare quam viverra. Gravida in fermentum et sollicitudin. Maecenas sed enim ut sem viverra aliquet. Quam quisque id diam vel quam elementum. Nec sagittis aliquam malesuada bibendum arcu. Amet consectetur adipiscing elit pellentesque habitant. Magna etiam tempor orci eu. Vulputate mi sit amet mauris commodo quis imperdiet massa. Donec adipiscing tristique risus nec feugiat in fermentum posuere urna. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor magna. Tortor at auctor urna nunc id cursus metus.
 
 Sagittis orci a scelerisque purus. Diam ut venenatis tellus in metus vulputate eu scelerisque. Ornare arcu dui vivamus arcu felis bibendum ut. Porttitor eget dolor morbi non arcu. Potenti nullam ac tortor vitae purus faucibus ornare. Quis imperdiet massa tincidunt nunc. Etiam dignissim diam quis enim lobortis scelerisque. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Varius duis at consectetur lorem donec massa. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum. Tortor at auctor urna nunc id cursus metus aliquam eleifend.
