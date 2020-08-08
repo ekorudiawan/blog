@@ -14,7 +14,7 @@ categories:
   - Robotics
 image:
   filename: robotic-arm.jpeg
-  preview_only: false
+  preview_only: true
 ---
 ## Forward and Inverse Kinematics Definition
 Disini menjelaskan tentang cara menggunakan orocos kdl
